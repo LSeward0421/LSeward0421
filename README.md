@@ -3,13 +3,13 @@
 </div>  
   
 
-### <div align="center">Hi there! I'm Lauren Seward, a current Front End Software developer 👩‍💻 studying at the Turing School of Software & Design 🚀. I'm a cat-loving, pinball-playing, karaoke enthusiast who spent 15 years in the hospitality industry. I'm currently learning to use technologies like JavaScript, HTML, CSS and React to hopefully make positive change in the world! I'm looking for a team that values collaboration and communication to create amazing experiences together. ✌️</div>  
+### <div align="center">Hi there! I'm Lauren Seward (she/her), but you can call me 'Larry'. I'm a Front End Software Developer 👩‍💻 currently studying at the Turing School of Software & Design 🚀. With 15 years of experience in the hospitality industry and a passion for connecting with people, I'm now using technologies like JavaScript, HTML, CSS and React to solve problems and create positive change in the world. I'm excited to join a team that values collaboration and communication to create amazing experiences together!✌️</div>  
   
 
 - 🌱 I’m currently learning React and Cypress.   
   
 
-- ⚡ Fun fact: I have the best remote office coworkers. 🐈  
+- ⚡ Fun fact: I have THE BEST remote office coworkers. 🐈  
   
 
 <br/>  
