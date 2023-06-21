@@ -3,10 +3,10 @@
 </div>  
   
 
-### <div align="center">Hi there! I'm Lauren Seward (she/her), but you can call me 'Larry'. I'm a Front End Software Developer 👩‍💻 currently studying at the Turing School of Software & Design 🚀. With 15 years of experience in the hospitality industry and a passion for connecting with people, I'm now using technologies like JavaScript, HTML, CSS and React to solve problems and create positive change in the world. I'm excited to join a team that values collaboration and communication to create amazing experiences together!✌️</div>  
+### <div align="center">Hi there! I'm Lauren Seward (she/her), but you can call me 'Larry'. I'm a Front End Software Developer 👩‍💻. With 15 years of experience in the hospitality industry and a passion for connecting with people, I'm now using technologies like JavaScript, HTML, CSS and React to solve problems and create positive change in the world. I'm excited to join a team that values collaboration and communication to create amazing experiences together!✌️</div>  
   
 
-- 🌱 I’m currently learning GraphQL and CI/CD.   
+- 🌱 I’m currently learning Next.js & TailWind.   
   
 
 - ⚡ Fun fact: I have THE BEST remote office coworkers. 🐈  
