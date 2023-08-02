@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://media.giphy.com/media/TdTDDwmTKhbmY4WNSg/giphy.gif" width="500px" align="center">
+<img src="https://media.giphy.com/media/TdTDDwmTKhbmY4WNSg/giphy.gif" width="700px" align="center">
 </p>
 
 <h3 align="center">👋 Hi there! I'm Lauren Seward (she/her), but you can call me 'Larry'.</h3>
@@ -77,7 +77,4 @@ I'm a Front End Software Developer 👩‍💻 with 15 years of experience in th
 </a>
 
 </div>
-  
-
-<br/>  
 
