@@ -27,9 +27,7 @@ I'm a Front End Software Developer 👩‍💻 with 15 years of experience in th
 
 [![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)](https://reactjs.org/)
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node-dot-js&logoColor=white)](https://nodejs.org/)
-[![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next-dot-js&logoColor=white)](https://nextjs.org/)
 [![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white)](https://graphql.org/)
-[![TailWind CSS](https://img.shields.io/badge/-TailWind_CSS-38B2AC?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
 ### Testing
 
