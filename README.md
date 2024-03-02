@@ -52,7 +52,7 @@ I'm a Front End Software Developer 👩‍💻 with 15 years of experience in th
 
 ### Inner Worlds
 
-<img src="https://user-images.githubusercontent.com/114776048/239997350-cc5c2b9d-0888-4442-b1e6-4c079463c2af.gif" width="400" height="250"/>  ````21
+<img src="https://user-images.githubusercontent.com/114776048/239997350-cc5c2b9d-0888-4442-b1e6-4c079463c2af.gif" width="400" height="250"/>
 
 🪐 Inner Worlds is your celestial companion for dream-logging and self-discovery. 🚀✨ It enables you to record and update your dreams, analyze dream data, and experience lucidity. 
 
